@@ -1,0 +1,17 @@
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\bin\Debug\net6.0\PRACTICE_2.exe
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\bin\Debug\net6.0\PRACTICE_2.deps.json
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\bin\Debug\net6.0\PRACTICE_2.runtimeconfig.json
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\bin\Debug\net6.0\PRACTICE_2.dll
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\bin\Debug\net6.0\PRACTICE_2.pdb
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\PRACTICE_2.csproj.AssemblyReference.cache
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\PRACTICE_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\PRACTICE_2.AssemblyInfoInputs.cache
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\PRACTICE_2.AssemblyInfo.cs
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\PRACTICE_2.csproj.CoreCompileInputs.cache
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\PRACTICE_2.dll
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\refint\PRACTICE_2.dll
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\PRACTICE_2.pdb
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\PRACTICE_2.genruntimeconfig.cache
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\ref\PRACTICE_2.dll
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ivan6\source\repos\PRACTICE_2\PRACTICE_2\obj\Debug\net6.0\PRACTICE_2.csproj.CopyComplete

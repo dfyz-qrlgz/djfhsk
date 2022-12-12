@@ -1,0 +1,9 @@
+Kvadrat
+35
+35
+Triangle
+10
+15
+Circle
+20
+25
